@@ -1,4 +1,4 @@
-# Image Sizing Library
+# Image Sizes Struct
 
 A Rust library for handling image dimensions with different orientations and scales. This crate provides a robust system for creating, manipulating, and storing image size information.
 
